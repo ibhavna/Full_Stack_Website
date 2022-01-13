@@ -1,0 +1,7 @@
+Instructionguide:-
+
+1. keep all the <link> tags copied from bootstrap inside a head tag and <scripts tag > inside a body tag otherwisse they would get load before hand only.
+
+2. to run the files, copy the path of index.php file which is C:\xampp\htdocs\youtubewebsite\index.php and remove upto htdocs and write localhost\youtubewebsite\index.php on any browser after starting xampp server.
+
+
